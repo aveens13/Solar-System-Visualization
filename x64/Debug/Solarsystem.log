@@ -1,0 +1,45 @@
+﻿  Application.cpp
+C:\projects\Solarsystem\Dependencies\GLFW\include\Shader\shader.h(45,35): warning C4101: 'error': unreferenced local variable
+C:\projects\Solarsystem\src\Application.cpp(222,26): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\projects\Solarsystem\src\Application.cpp(241,34): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\projects\Solarsystem\src\Application.cpp(258,34): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\projects\Solarsystem\src\Application.cpp(275,34): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\projects\Solarsystem\src\Application.cpp(291,34): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\projects\Solarsystem\src\Application.cpp(307,34): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\projects\Solarsystem\src\Application.cpp(323,34): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\projects\Solarsystem\src\Application.cpp(339,34): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+  Solarsystem.vcxproj -> C:\projects\Solarsystem\x64\Debug\Solarsystem.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
